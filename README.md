@@ -1,2 +1,2 @@
-# redux-avanzado
-Curso avanzo de Redux con React
+# redux-vanillaJS
+An amazing application using redux and vanilla js
