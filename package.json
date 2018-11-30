@@ -1,4 +1,4 @@
-{
+  {
   "name": "platzi-video",
   "version": "1.0.0",
   "description": "",
@@ -33,6 +33,7 @@
     "prop-types": "15.6.0",
     "react": "16.1.1",
     "react-dom": "16.1.1",
+    "react-redux": "^5.1.1",
     "redux": "^3.7.2"
   }
 }
